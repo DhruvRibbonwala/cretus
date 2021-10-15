@@ -39,3 +39,5 @@ This repository contains a ROS package `cretus` that contains necessary files to
  roslaunch cretus cretus_gazebo.launch
  ```
  
+## References
+[URDF tutorials](https://wiki.ros.org/urdf/Tutorials)
