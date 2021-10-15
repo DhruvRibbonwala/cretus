@@ -17,4 +17,4 @@ Then clone this repository by giving the following command
  catkin_make
  source ~/catkin_ws/devel/setup.bash
  ```
- ![Image](https://github.com/DhruvRibbonwala/Cretusworkshop/blob/main/kobuki_description/meshes/images/main_body.jpg)
+ 
