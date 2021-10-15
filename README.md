@@ -12,7 +12,8 @@ Then clone this repository by giving the following command
  ```
  cd ..
  ```
- Then build the package by giving the following command  
+ Then build the package by giving the following commands  
  ```
+ catkin_make
  source ~/catkin_ws/devel/setup.bash
  ```
