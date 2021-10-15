@@ -6,7 +6,7 @@
  ```
 Then clone this repository by giving the following command  
  ```
- git clone Insert link here
+ git clone https://github.com/DhruvRibbonwala/cretus.git
  ```
  Then navigate back to the workspace directory by  
  ```
